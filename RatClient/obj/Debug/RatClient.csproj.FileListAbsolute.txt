@@ -1,0 +1,11 @@
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.csproj.SuggestedBindingRedirects.cache
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.csproj.CoreCompileInputs.cache
+C:\ratprojects2-prep\RatFinalProject\RatClient\bin\Debug\RatClient.exe.config
+C:\ratprojects2-prep\RatFinalProject\RatClient\bin\Debug\RatClient.exe
+C:\ratprojects2-prep\RatFinalProject\RatClient\bin\Debug\RatClient.pdb
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.csproj.AssemblyReference.cache
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.exe
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.pdb
+C:\ratprojects2-prep\RatFinalProject\RatClient\bin\Debug\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\RatClient\bin\Debug\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\RatClient\obj\Debug\RatClient.csproj.CopyComplete

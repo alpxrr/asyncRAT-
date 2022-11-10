@@ -1,0 +1,12 @@
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\bin\Debug\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\bin\Debug\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Debug\RemotingInterface.csproj.CoreCompileInputs.cache
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Debug\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Debug\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Debug\RemotingInterface.csproj.AssemblyReference.cache
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\bin\Debug\RemotingInterface.dll
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\bin\Debug\RemotingInterface.pdb
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\obj\Debug\RemotingInterface.csproj.AssemblyReference.cache
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\obj\Debug\RemotingInterface.csproj.CoreCompileInputs.cache
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\obj\Debug\RemotingInterface.dll
+C:\Users\alprh\Desktop\samplerat.cs\RemotingInterface\obj\Debug\RemotingInterface.pdb

@@ -1,0 +1,6 @@
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\bin\Release\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\bin\Release\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Release\RemotingInterface.csproj.CoreCompileInputs.cache
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Release\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Release\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\RemotingInterface\obj\Release\RemotingInterface.csproj.AssemblyReference.cache

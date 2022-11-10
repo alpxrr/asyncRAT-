@@ -1,0 +1,14 @@
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.csproj.AssemblyReference.cache
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.csproj.SuggestedBindingRedirects.cache
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.Form1.resources
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.Properties.Resources.resources
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.csproj.GenerateResource.cache
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.csproj.CoreCompileInputs.cache
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\bin\Release\CommandControlServer.exe.config
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\bin\Release\CommandControlServer.exe
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\bin\Release\CommandControlServer.pdb
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\bin\Release\RemotingInterface.dll
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\bin\Release\RemotingInterface.pdb
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.csproj.CopyComplete
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.exe
+C:\ratprojects2-prep\RatFinalProject\CommandControlServer\obj\Release\CommandControlServer.pdb
